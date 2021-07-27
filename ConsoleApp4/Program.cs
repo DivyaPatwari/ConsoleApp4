@@ -12,8 +12,4 @@ namespace ConsoleApp4
         }
     }
 
-    class New
-    {
-        Console.writeline("this is new class");
-    }
 }
