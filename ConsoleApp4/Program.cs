@@ -18,6 +18,9 @@ namespace ConsoleApp4
 
             //pushing code to new branch
             Console.WriteLine("new branch");
+            
+            // pulling code from git
+            Console.WriteLine("hii i am from git ");
         }
     }
 
