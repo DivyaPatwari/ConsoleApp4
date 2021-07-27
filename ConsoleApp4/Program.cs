@@ -11,4 +11,9 @@ namespace ConsoleApp4
             Console.WriteLine("here we have understood how to push and pull c# files to git");
         }
     }
+
+    class New
+    {
+        Console.writeline("this is new class");
+    }
 }
