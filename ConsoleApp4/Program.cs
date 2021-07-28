@@ -14,6 +14,9 @@ namespace ConsoleApp4
             
             //understanding pull
             Console.WriteLine("This is pulled  from git ");
+
+
+            Console.WriteLine("these are changes done on 28th july");
         }
     }
 
