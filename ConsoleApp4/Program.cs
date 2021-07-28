@@ -12,6 +12,10 @@ namespace ConsoleApp4
             Console.WriteLine("Hello World!");
             Console.WriteLine("11");
             Console.WriteLine("22");
+            Console.WriteLine("33");
+            Console.WriteLine("44");
+            Console.WriteLine("55");
+            Console.WriteLine (""****************************************************************************);
             Console.WriteLine("3");
 
             Console.WriteLine("4");
@@ -35,6 +39,8 @@ namespace ConsoleApp4
 
             // comment added from github and later pulled in visual studio
             Console.WriteLine("these are changes done on 28th july in visual studio and pushed to git");
+                        Console.WriteLine (""****************************************************************************);
+
         }
     }
 
