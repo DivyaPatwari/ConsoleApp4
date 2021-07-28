@@ -8,6 +8,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("1");
+            Console.WriteLine("2");
 
             //understanding push
             Console.WriteLine("Push  c# files to git");
