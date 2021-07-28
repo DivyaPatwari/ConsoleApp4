@@ -10,13 +10,13 @@ namespace ConsoleApp4
             int z = 20;
             Console.WriteLine("done done done ");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("1");
-            Console.WriteLine("2");
-            Console.WriteLine("3");
+            Console.WriteLine("11");
+            Console.WriteLine("22");
+            Console.WriteLine("33");
 
-            Console.WriteLine("4");
+            Console.WriteLine("44");
 
-            Console.WriteLine("5");
+            Console.WriteLine("55");
 
 
 
