@@ -9,11 +9,11 @@ namespace ConsoleApp4
             Console.WriteLine("Hello World!");
             Console.WriteLine("11");
             Console.WriteLine("22");
-            Console.WriteLine("33");
+            Console.WriteLine("3");
 
-            Console.WriteLine("44");
+            Console.WriteLine("4");
 
-            Console.WriteLine("55");
+            Console.WriteLine("5");
 
 
 
